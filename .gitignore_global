@@ -1,0 +1,10 @@
+*~
+.DS_Store
+.tool-versions
+.direnv/
+.envrc
+.ipynb_checkpoints/
+.mvn/wrapper/maven-wrapper.jar
+*.iml
+target/
+.idea
