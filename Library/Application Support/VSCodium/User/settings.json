@@ -1,0 +1,20 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Iosevka",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "diffEditor.codeLens": true,
+    "workbench.colorTheme": "GitHub Light",
+    "workbench.preferredDarkColorTheme": "GitHub Dark",
+    "workbench.preferredLightColorTheme": "GitHub Light",
+    "window.autoDetectColorScheme": true,
+    "workbench.editor.tabCloseButton": "left",
+    "terminal.external.osxExec": "iTerm2.app",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "Iosevka Term",
+    "terminal.integrated.shellArgs.osx": [
+        "${env:HOME}/.fish_with_bash_env"
+    ],
+    "terminal.integrated.shell.osx": "/bin/bash"
+}
