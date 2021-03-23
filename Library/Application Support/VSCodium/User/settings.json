@@ -16,5 +16,6 @@
     "terminal.integrated.shellArgs.osx": [
         "${env:HOME}/.fish_with_bash_env"
     ],
-    "terminal.integrated.shell.osx": "/bin/bash"
+    "terminal.integrated.shell.osx": "/bin/bash",
+    "explorer.confirmDelete": false
 }
