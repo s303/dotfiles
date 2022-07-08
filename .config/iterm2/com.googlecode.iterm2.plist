@@ -217,7 +217,7 @@
 			<key>Columns</key>
 			<integer>120</integer>
 			<key>Command</key>
-			<string>~/.fish_with_bash_env</string>
+			<string></string>
 			<key>Cursor Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -250,7 +250,7 @@
 				<real>1</real>
 			</dict>
 			<key>Custom Command</key>
-			<string>Yes</string>
+			<string>No</string>
 			<key>Custom Directory</key>
 			<string>No</string>
 			<key>Custom Tab Title</key>
@@ -702,8 +702,6 @@
 	</dict>
 	<key>PreserveWindowSizeWhenTabBarVisibilityChanges</key>
 	<false/>
-	<key>PreventEscapeSequenceFromClearingHistory</key>
-	<true/>
 	<key>PromptOnQuit</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
@@ -720,6 +718,10 @@
 	<true/>
 	<key>TimeBetweenTips</key>
 	<real>604800</real>
+	<key>ToolbeltTools</key>
+	<array>
+		<string>Notes</string>
+	</array>
 	<key>UseBorder</key>
 	<true/>
 	<key>VisualIndicatorForEsc</key>
