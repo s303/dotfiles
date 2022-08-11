@@ -11,10 +11,10 @@
 #
 #
 #
-set -gx CONDA_EXE "/Users/s303/opt/miniconda3/bin/conda"
-set _CONDA_ROOT "/Users/s303/opt/miniconda3"
-set _CONDA_EXE "/Users/s303/opt/miniconda3/bin/conda"
-set -gx CONDA_PYTHON_EXE "/Users/s303/opt/miniconda3/bin/python"
+set -gx CONDA_EXE "$HOME/opt/miniconda3/bin/conda"
+set _CONDA_ROOT "$HOME/opt/miniconda3"
+set _CONDA_EXE "/$HOME/opt/miniconda3/bin/conda"
+set -gx CONDA_PYTHON_EXE "/$HOME/opt/miniconda3/bin/python"
 # Copyright (C) 2012 Anaconda, Inc
 # SPDX-License-Identifier: BSD-3-Clause
 #
